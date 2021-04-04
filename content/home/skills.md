@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Themenschwerpunkte
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Organisationsentwicklung
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Teamentwicklung
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Business Coaching
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
