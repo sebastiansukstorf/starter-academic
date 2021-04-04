@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sebastian Sukstorf
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Berater & Business Coach
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Sebastian Sukstorf - Consulting & Coaching
+  url: https://www.sebastian.sukstorf.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Leistungen:
+- Organisationsentwicklung
+- Teamentwicklung
+- Business Coaching
 
 # Education to show in About widget
 education:
@@ -45,16 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/sukstorf
   label: Follow me on Twitter
   display:
     header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sebastiansukstorf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
