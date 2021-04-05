@@ -98,7 +98,7 @@ Leadership Consulting:
 
 # Education to show in About widget
 Qualifikation:
-  Zertifikarte:
+  Zertifikate:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
