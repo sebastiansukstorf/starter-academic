@@ -14,17 +14,17 @@ organizations:
   url: https://www.sebastian.sukstorf.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sebastian Sukstorf ist selbständigerExperte und bietet Leadership Consulting für strategische Organisations- und Teamentwicklung.
+bio: Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen.
 
 # Interests to show in About widget
-Leistungen:
-- Organisationsentwicklung
-- Teamentwicklung
-- Business Coaching
+Leadership Consulting:
+- Umwelt- und Stakeholderanalyse
+- Strategische Projekte & Teamentwicklung
+- Kommunikation & Handlungsempfehlung
 
 # Education to show in About widget
-education:
-  courses:
+Qualifikation:
+  Zertifikarte:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
@@ -68,4 +68,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Lebebslauf{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
