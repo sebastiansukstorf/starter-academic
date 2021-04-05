@@ -19,13 +19,13 @@ bio: Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialis
 
 # Interests to show in About widget
 Leistungen:
-- strategische Projekte
-- Teamentwicklung
-- Business Coaching
+- Stakeholder & Organisation
+- Projekte & Teams
+- Kommunikation & Führung
 
 # Education to show in About widget
-education:
-  courses:
+Zertifikate:
+  Kurse:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
@@ -65,11 +65,13 @@ email: "info@sebastian.sukstorf.de"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einer der Big Four Beratungshäuser.
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Lebebslauf{{< /staticref >}}.
+Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen. Sein Credo lautet: Schwere Dinge leicht machen.
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
 =======
 ---
 # Display name
@@ -91,9 +93,9 @@ bio: Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialis
 
 # Interests to show in About widget
 Leadership Consulting:
-- Umwelt- und Stakeholderanalyse
-- Strategische Projekte & Teamentwicklung
-- Kommunikation & Handlungsempfehlung
+- Stakeholder & Organisation
+- Projekte & Teams
+- Kommunikation & Führung
 
 # Education to show in About widget
 Qualifikation:
@@ -137,9 +139,11 @@ email: "info@sebastian.sukstorf.de"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einer der Big Four Beratungshäuser.
+
+Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen. Sein Credo lautet: Schwere Dinge leicht machen.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
 >>>>>>> 251b5cc34b219eee1e85218252c34b5894b36177
