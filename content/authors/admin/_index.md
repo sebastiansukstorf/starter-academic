@@ -14,11 +14,11 @@ organizations:
   url: https://www.sebastian.sukstorf.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sebastian Sukstorf ist selbständigerExperte und bietet Leadership Consulting für strategische Organisations- und Teamentwicklung.
+bio: Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen.
 
 # Interests to show in About widget
 Leistungen:
-- Organisationsentwicklung
+- strategische Projekte
 - Teamentwicklung
 - Business Coaching
 
