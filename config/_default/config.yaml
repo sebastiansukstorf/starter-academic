@@ -74,7 +74,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
-=======
+
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
@@ -151,4 +151,3 @@ related:
       weight: 100
     - name: categories
       weight: 70
->>>>>>> 251b5cc34b219eee1e85218252c34b5894b36177
