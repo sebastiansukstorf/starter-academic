@@ -5,7 +5,7 @@
 
 title: Sebastian Sukstorf # Website name
 baseurl: 'https://www.sebastian.sukstorf.de' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Sebastian Sukstorf - Consulting & Coaching' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
