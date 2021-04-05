@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 # Display name
 title: Sebastian Sukstorf
