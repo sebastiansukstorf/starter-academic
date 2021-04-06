@@ -48,7 +48,7 @@ social:
   link: https://github.com/sebastiansukstorf
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/sebastiansukstorf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,8 +64,10 @@ email: "info@sebastian.sukstorf.de"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einer der Big Four Beratungshäuser.
+
+Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
