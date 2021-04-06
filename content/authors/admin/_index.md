@@ -20,15 +20,19 @@ Zertifikate:
     institution: Massachusetts Institute of Technology
     year: 2008
 social:
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Sebastian_Sukstorf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sukstorf
 - icon: github
   icon_pack: fab
   link: https://github.com/sebastiansukstorf
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+
 email: info@sebastian.sukstorf.de
 highlight_name: no
 organizations:
