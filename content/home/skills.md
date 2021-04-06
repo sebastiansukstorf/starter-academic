@@ -19,14 +19,14 @@ title: Leistungen
 feature:
 - description: 20%
   icon: user-friends
-  icon_pack: fab
+  icon_pack: fas
   name: Stakeholder & Organisation
 - description: 50%
   icon: users
   icon_pack: fas
   name: Projekte & Teams
 - description: 30%
-  icon: comment
+  icon: comments
   icon_pack: fas
   name: Kommunikation & Führung
 
