@@ -10,30 +10,31 @@ headless: true
 weight: 30
 
 title: Leistungen
-subtitle:
+# subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
 feature:
-- description: 90%
-  icon: r-project
+- description: 20%
+  icon: user-friends
   icon_pack: fab
-  name: Organisationsentwicklung
-- description: 100%
-  icon: busts_in_silhouette
+  name: Stakeholder & Organisation
+- description: 50%
+  icon: users
   icon_pack: fas
-  name: Teamentwicklung
-- description: 10%
-  icon: camera-retro
+  name: Projekte & Teams
+- description: 30%
+  icon: comment
   icon_pack: fas
-  name: Business Coaching
+  name: Kommunikation & Führung
 
 # Uncomment to use emoji icons.
-- icon: ":smile:"
-  icon_pack: "emoji"
-  name: "Emojiness"
-  description: "100%"  
+#- icon: ":smile:"
+#  icon_pack: "emoji"
+#  name: "Emojiness"
+#  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
