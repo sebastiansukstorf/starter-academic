@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Themenschwerpunkte
+title: Leistungen
 subtitle:
 
 # Showcase personal skills or business features.
@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Organisationsentwicklung
 - description: 100%
-  icon: chart-line
+  icon: busts_in_silhouette
   icon_pack: fas
   name: Teamentwicklung
 - description: 10%
