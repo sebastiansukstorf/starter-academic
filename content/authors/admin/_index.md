@@ -29,9 +29,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sukstorf
-- icon: github
+- icon: youtube
   icon_pack: fab
-  link: https://github.com/sebastiansukstorf
+  link: https://www.youtube.com/channel/UCUooY53lslDRR5hoG4DIZhg
 
 email: info@sebastian.sukstorf.de
 highlight_name: no
