@@ -1,4 +1,3 @@
-<<<<<<<+master
 ---
 title: Vorträge
 cms_exclude: true
@@ -30,4 +29,3 @@ header:
   caption: ""
   image: ""
 ---
->>>>>>> origin/master
