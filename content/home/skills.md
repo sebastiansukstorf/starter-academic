@@ -9,25 +9,26 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Themenschwerpunkte
-subtitle:
+title: Leadership Consulting
+# subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: Organisationsentwicklung
-- description: 100%
-  icon: chart-line
+- description: 20%
+  icon: user-friends
   icon_pack: fas
-  name: Teamentwicklung
-- description: 10%
-  icon: camera-retro
+  name: Stakeholder & Organisation
+- description: 50%
+  icon: users
   icon_pack: fas
-  name: Business Coaching
+  name: Projekte & Teams
+- description: 30%
+  icon: comments
+  icon_pack: fas
+  name: Kommunikation & Führung
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
