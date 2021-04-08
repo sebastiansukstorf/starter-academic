@@ -25,17 +25,14 @@ social:
   link: https://www.xing.com/profile/Sebastian_Sukstorf
 - icon: linkedin
   icon_pack: fab
-<<  link: www.linkedin.com/in/sebastiansukstorf
->>>>>>>+master
-=====
-    link: https://www.linkedin.com/
+  link: www.linkedin.com/in/sebastiansukstorf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sukstorf
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCUooY53lslDRR5hoG4DIZhg
->>>>>>>+origin/master
+
 mail: info@sebastian.sukstorf.de
 highlight_name: no
 organizations:
@@ -43,16 +40,10 @@ organizations:
   url: https://www.sebastian.sukstorf.de/
 ---
 
-<<Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
+Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
 
 Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einer der Big Four Beratungshäuser.
 
 Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen.
->>>>>>>+master
-ian SuksSebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
 
-Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einer der Big Four Beratungshäuser.
-
-Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen. Sein Credo lautet: Schwere Dinge leicht machen.
->>>>>>>+origin/master
 pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
