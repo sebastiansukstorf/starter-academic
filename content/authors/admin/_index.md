@@ -4,10 +4,12 @@ superuser: yes
 role: Leadership Consultant & Coach
 bio: Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte
   auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen.
+
 Leistungen:
 - Stakeholder & Organisation
 - Projekte & Teams
 - Kommunikation & Führung
+
 Zertifikate:
   Kurse:
   - course: PhD in Artificial Intelligence
@@ -19,6 +21,7 @@ Zertifikate:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
+
 social:
 - icon: xing
   icon_pack: fab
@@ -46,4 +49,4 @@ Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplex
 
 Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen.
 
-{{< icon name=“download” pack="fas" >}}Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
+{{< icon name=“download” pack="fas">}}Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
