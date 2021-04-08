@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -96,4 +95,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
->>>>>>> 8e479b42c09243cd70ee69c09f4dad5c1b4c5705
