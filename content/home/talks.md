@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -82,4 +81,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
->>>>>>> 8e479b42c09243cd70ee69c09f4dad5c1b4c5705
