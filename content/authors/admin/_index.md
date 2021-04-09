@@ -49,4 +49,4 @@ Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplex
 
 Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen.
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/resume.pdf" "newtab" >}}Beraterprofil{{< /staticref >}}.
