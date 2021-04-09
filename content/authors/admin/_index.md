@@ -43,10 +43,11 @@ organizations:
   url: https://www.sebastian.sukstorf.de/
 ---
 
-Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisierte auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership Projekten.
+Sebastian Sukstorf ist Experte für Leadership Consulting. Er ist spezialisiert auf die Optimierung von Organisationsprozessen und die Gestaltung von Teamstrukturen. Er unterstützt Geschäftsführer und Führungskräfte bei der Initiierung und der Umsetzung von Leadership-Projekten.
 
-Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einer der Big Four Beratungshäuser.
+Sebastian Sukstorf befasst sich seit vielen Jahren mit der Reduktion von Komplexität in Projekten der Organisations- und Teamentwicklung. Er studierte Wirtschaftswissenschaften und arbeitete als internationaler Unternehmensberater in einem der »Big Four«-Beratungshäuser.
 
-Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen.
+Seine langjährige Erfahrung mit Führungskräften als Leiter der Personalentwicklung in Maschinenbauunternehmen ermöglicht es ihm, schnell und strukturiert die Herausforderungen von Unternehmen zu erkennen. Sein Credo lautet: Schwere Dinge leicht machen.
+
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
