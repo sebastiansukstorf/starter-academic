@@ -11,7 +11,7 @@ copyright: '© {year} Sebastian Sukstorf - Consulting & Coaching' # Footer text,
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
