@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IDEs
 .idea/
 
@@ -18,4 +17,4 @@ public/
 jsconfig.json
 node_modules/
 .Rproj.user
->>>>>>> 251b5cc34b219eee1e85218252c34b5894b36177
+
